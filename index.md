@@ -1,5 +1,32 @@
 ## Eric's Github Portfolio
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericdickey480)](https://git.io/streak-stats)
+
+### About
+Since my first computer, I found coding and working with data to be challenging, interesting, and full of rabbit holes to explore late into the night with excessive amounts of caffine. What began with making webpages with no particular theme or goal in Notepad has evolved over the years into a career working with complex datasets and solving challenging puzzles layered in lots of datasets! 
+
+With a love for data deep dives and analysis, I persued a graduate degree in Data Science from Bellevue University (2022). My devops has a focus in the following areas:
+- Exploratory Data Analysis
+- Data Wrangling
+- Data Visualization
+- Machine Learning Models
+
+### Work/Projects
+
+### Contact
+I am available to connect with on [LinkedIn](https://www.linkedin.com/in/eric-dickey480/)
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/ericdickey480/ericdickey480.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
