@@ -3,13 +3,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericdickey480)](https://git.io/streak-stats)
 
 ### About
-Since my first computer, I found coding and working with data to be challenging, interesting, and full of rabbit holes to explore late into the night with excessive amounts of caffine. What began with making webpages with no particular theme or goal in Notepad has evolved over the years into a career working with complex datasets and solving challenging puzzles layered in lots of datasets! 
+Since my first computer, I found coding and working with data to be challenging, interesting, and full of rabbit holes to explore. What began with making webpages with no particular theme or goal in Notepad has evolved over the years into a career working with complex datasets and solving challenging puzzles layered in lots of datasets! 
 
 With a love for data deep dives and analysis, I persued a graduate degree in Data Science from Bellevue University (2022). My devops has a focus in the following areas:
 - Exploratory Data Analysis
 - Data Wrangling
 - Data Visualization
 - Machine Learning Models
+
+My professional experience includes over a decade of data driven investigations and analysis with a focus on cybersecurity risks, insider threats, and external threat management. The inteligence analysis and automation that data science brings to investigations allows for complex problems to be detected and mitigated in an efficient and effective manner.
 
 ### Work/Projects (IN PROGRESS)
 - **Finding Phish in Webpages** – Using machine learning to detect phishing webpages by leveraging a classification model
