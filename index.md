@@ -1,4 +1,4 @@
-## Eric's Github Portfolio
+## Github Portfolio
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericdickey480)](https://git.io/streak-stats)
 
